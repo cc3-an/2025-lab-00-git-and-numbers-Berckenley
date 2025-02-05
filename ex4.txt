@@ -1,2 +1,5 @@
 a,b,c,d,e,f,g,h,i,j # usar potencia de 2 hasta sumarlas y que den 1000
+(1+2+4+8+16+64+128+256+x)=1000
+x=1000-511
+x=589
 1,2,4,8,16,32,64,128,256,489
