@@ -1,1 +1,2 @@
-a,b,c,d,e,f,g,h,i,j
+a,b,c,d,e,f,g,h,i,j # usar potencia de 2 hasta sumarlas y que den 1000
+1,2,4,8,16,32,64,128,256,489
